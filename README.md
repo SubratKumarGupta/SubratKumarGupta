@@ -8,14 +8,17 @@
   <!-- <p class="text">My name is SubratGupta</p> -->
   <div class="text" >
   <img class="t1" src="assets\text.png"/>
-  <!-- <img class="t2" src="assets\caption2.png"/> -->
+  </div>
+  <div class="images">
+  <img class="background-image dino" src="https://github.com/SubratKumarGupta/SubratKumarGupta/blob/main/assets/dinoBanner.jpg"/>
+  <img class="background-image nigth-cat" src="https://github.com/SubratKumarGupta/SubratKumarGupta/blob/main/assets/nightcat.gif"/>
+  
   </div>
   
-  <img class="background-image" src="https://i.pinimg.com/564x/2e/35/ad/2e35ad4ca175d122cec93b14b1b8c4de.jpg"/>
 </div>
 
 <style>
-
+   
   .container {
     position: relative;
   }
@@ -25,14 +28,33 @@
     left: 50%;
     text-align: center;
     transform: scale(2) translate(-24%, -58%);
-    z-index: 1;
+    z-index: 50;
   }
+  .background-image:first-child{
+    position: absolute;
+    opacity: 1;
+    animation-delay: 4s;
+    z-index: 2;
+  }
+
   .background-image {
     width: 100%;
     top: 0;
     left: 0;
     z-index: 0;
+    animation: fade-image-1 8s infinite;
   }
+  @keyframes fade-image-1 {
+        0% {
+          opacity: 0;
+        }
+        50% {
+          opacity: 1;
+        }
+        100% {
+          opacity: 0;
+        }
+      }
 </style>
 
 </div>
