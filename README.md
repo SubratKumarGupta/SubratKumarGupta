@@ -1,8 +1,8 @@
 <p align="center">
- 
+ <img width="100%" class="background-image dino" src="assets/banner.gif"/>
 </p align="center">
 
-<img width="100%" class="background-image dino" src="assets/banner.gif"/>
+
 
 <br>
 
