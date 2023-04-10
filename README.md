@@ -1,23 +1,39 @@
-<!--  https://ritik307.github.io/portfolio/  -->
 <p align="center">
  
 </p align="center">
 
-<div>
-<div class="container">
-  <!-- <p class="text">My name is SubratGupta</p> -->
-  <div class="text" >
-  <img class="t1" src="assets\text.png"/>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="https://github.com/SubratKumarGupta/SubratKumarGupta/blob/main/assets/styles.css">
+  </head>
+  <body>
+    <div class="container">
+    <div class="text" >
+      <img class="t1" src="assets\text.png"/>
+    </div>
+    <div class="images">
+      <img class="background-image dino" src="assets/dinoBanner.jpg"/>
+      <img class="background-image nigth-cat" src="assets/nightcat.gif"/>
+    </div>
   </div>
-  <div class="images">
-  <img class="background-image dino" src="https://github.com/SubratKumarGupta/SubratKumarGupta/blob/main/assets/dinoBanner.jpg"/>
-  <img class="background-image nigth-cat" src="https://github.com/SubratKumarGupta/SubratKumarGupta/blob/main/assets/nightcat.gif"/>
-  
-  </div>
-  
-</div>
+  </body>
+</html>
 
-<style>
+<!-- <head>
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<div>
+  <div class="container">
+    <div class="text" >
+      <img class="t1" src="assets\text.png"/>
+    </div>
+    <div class="images">
+      <img class="background-image dino" src="assets/dinoBanner.jpg"/>
+      <img class="background-image nigth-cat" src="assets/nightcat.gif"/>
+    </div>
+  </div>
+-->
+  <!-- <style> 
    
   .container {
     position: relative;
@@ -55,9 +71,7 @@
           opacity: 0;
         }
       }
-</style>
-
-</div>
+</style> -->
 
 <br>
 
