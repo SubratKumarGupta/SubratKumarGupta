@@ -5,7 +5,7 @@
 - 👀 I’m interested in web devloment
 - 🌱 I’m currently working three.js,nextjs,dgraph,GraphQL
 - 💞️ I’m looking to collaborate projects
-- 📫 How to reach me guptasubratkumar@gmail.com
+- 📫 How to reach me contact@subrat.me
 
 
 <h2 align="center">
